@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "d695",
+      "name": "Mayur Desale",
+      "email": "mayur@gmail.com",
+      "address": "Nashik",
+      "phone": "9921790350",
+      "password": "mayur123",
+      "confirmPassword": "mayur123"
+    },
+    {
+      "id": "005e",
+      "name": "Vishal Bauri",
+      "email": "vishal@gmail.com",
+      "address": "Pune",
+      "phone": "988667788",
+      "password": "vishal123",
+      "confirmPassword": "vishal123"
+    },
+    {
+      "id": "3c70",
+      "name": "ketan",
+      "email": "ketan@gmail.com",
+      "address": "Nashik",
+      "phone": "0988998899"
+    }
+  ]
+}
